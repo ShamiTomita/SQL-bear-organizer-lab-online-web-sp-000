@@ -1,16 +1,16 @@
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Mr. Chocolate", 20, "male", "chocolate", "gentle", 1)
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Rowdy")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Tabitha")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Sergeant Brown")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Melissa")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Grinch")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+("Weny")
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
-("Mr. Chocolate")
+(NULL)
